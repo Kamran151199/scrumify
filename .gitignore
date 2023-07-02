@@ -140,3 +140,9 @@ static/
 .vscode/
 *.DS_Store
 /database/migrations/versions/
+tmp.py
+tmp2.py
+client.properties
+kafka-api-key.txt
+file1.txt
+schema_registry_creds.txt
